@@ -178,29 +178,13 @@ verification.
 
 ---
 
-## 7. Screen Recording
+## 7. GitHub Repository
 
-📹 **Demo Recording (Google Drive / OneDrive):** [ADD YOUR VIEW-ACCESS LINK HERE]
-
-The recording (5–10 minutes) covers:
-1. Student name and roll number in a text file
-2. Project folder and website files
-3. Dockerfile walkthrough
-4. `docker build` and `docker run`
-5. `docker ps` output
-6. Website running at http://localhost:8080, navigating all three pages
-7. `docker inspect` output
-8. GitHub repository and this completed README
+🔗 **Repository URL:** https://github.com/Nikhil-Phogat/Assignment.git
 
 ---
 
-## 8. GitHub Repository
-
-🔗 **Repository URL:** https://github.com/YOUR-USERNAME/docker-static-website-500101978
-
----
-
-## 9. Submission Checklist
+## 8. Submission Checklist
 
 - [x] Three website pages and CSS file completed
 - [x] Dockerfile completed
@@ -208,6 +192,5 @@ The recording (5–10 minutes) covers:
 - [ ] Container runs at http://localhost:8080 *(verify locally)*
 - [ ] Four screenshots included *(add your own)*
 - [x] README.md completed
-- [ ] GitHub link included *(update placeholder above)*
-- [ ] Recording link included and accessible *(add your own)*
+- [x] GitHub link included
 - [ ] README saved as PDF (`Docker_Practical_2_500101978.pdf`)
