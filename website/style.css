@@ -1,0 +1,108 @@
+/* =========================================
+   Docker Student Portfolio - style.css
+   Student: Nikhil Phogat | SAP ID: 500101978
+   ========================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #222;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #0b1f3a;
+    color: #ffffff;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    font-size: 1.5rem;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+nav a:hover {
+    background-color: #2496ed; /* Docker blue */
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    background-color: #ffffff;
+    padding: 30px 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+h2 {
+    color: #0b1f3a;
+    border-bottom: 3px solid #2496ed;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+
+h3 {
+    color: #2496ed;
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 12px;
+}
+
+ul {
+    margin-left: 20px;
+    margin-bottom: 16px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.info-box {
+    background-color: #e8f1fc;
+    border-left: 4px solid #2496ed;
+    padding: 14px 18px;
+    margin: 16px 0;
+    border-radius: 4px;
+}
+
+.badge {
+    display: inline-block;
+    background-color: #2496ed;
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    margin-top: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #555;
+    font-size: 0.9rem;
+}
+
+a {
+    color: #2496ed;
+}

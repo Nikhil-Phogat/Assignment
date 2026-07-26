@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Do not commit video files or image archives
+*.mp4
+*.mov
+*.tar
